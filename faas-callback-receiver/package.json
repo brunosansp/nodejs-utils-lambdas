@@ -1,0 +1,19 @@
+{
+  "name": "faas-callback-receiver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.services.crednovo.com.br/crednovo/backend/lambdas/faas-callback-receiver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.31",
+    "uuidv4": "^6.2.10"
+  }
+}
